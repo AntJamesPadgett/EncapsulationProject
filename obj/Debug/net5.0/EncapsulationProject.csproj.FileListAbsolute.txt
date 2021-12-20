@@ -1,0 +1,16 @@
+C:\Users\antho\repos\EncapsulationProject\bin\Debug\net5.0\EncapsulationProject.exe
+C:\Users\antho\repos\EncapsulationProject\bin\Debug\net5.0\EncapsulationProject.deps.json
+C:\Users\antho\repos\EncapsulationProject\bin\Debug\net5.0\EncapsulationProject.runtimeconfig.json
+C:\Users\antho\repos\EncapsulationProject\bin\Debug\net5.0\EncapsulationProject.runtimeconfig.dev.json
+C:\Users\antho\repos\EncapsulationProject\bin\Debug\net5.0\EncapsulationProject.dll
+C:\Users\antho\repos\EncapsulationProject\bin\Debug\net5.0\ref\EncapsulationProject.dll
+C:\Users\antho\repos\EncapsulationProject\bin\Debug\net5.0\EncapsulationProject.pdb
+C:\Users\antho\repos\EncapsulationProject\obj\Debug\net5.0\EncapsulationProject.csproj.AssemblyReference.cache
+C:\Users\antho\repos\EncapsulationProject\obj\Debug\net5.0\EncapsulationProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\repos\EncapsulationProject\obj\Debug\net5.0\EncapsulationProject.AssemblyInfoInputs.cache
+C:\Users\antho\repos\EncapsulationProject\obj\Debug\net5.0\EncapsulationProject.AssemblyInfo.cs
+C:\Users\antho\repos\EncapsulationProject\obj\Debug\net5.0\EncapsulationProject.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\EncapsulationProject\obj\Debug\net5.0\EncapsulationProject.dll
+C:\Users\antho\repos\EncapsulationProject\obj\Debug\net5.0\ref\EncapsulationProject.dll
+C:\Users\antho\repos\EncapsulationProject\obj\Debug\net5.0\EncapsulationProject.pdb
+C:\Users\antho\repos\EncapsulationProject\obj\Debug\net5.0\EncapsulationProject.genruntimeconfig.cache
